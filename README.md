@@ -1,2 +1,3 @@
 # inclusivedesignprinciples-de
-inclusivedesignprinciples.com Translation to german
+inclusivedesignprinciples.org Translation to german
+https://inclusivedesignprinciples.org/
