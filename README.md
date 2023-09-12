@@ -1,3 +1,6 @@
+Translation has been considered to not fit the language quality requirements.
+Please check the original repository for the german (de) language version.
+
 # inclusivedesignprinciples-de
 inclusivedesignprinciples.org Translation to german
 https://inclusivedesignprinciples.org/
